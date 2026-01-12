@@ -1,94 +1,148 @@
-&lt;div align="center"&gt;
-  &lt;img src="https://user-images.githubusercontent.com/74038190/212284115-f47cd8ff-2ffb-4b04-b5bf-4d1c14c0247f.gif" width="100%" height="60px"/&gt;
-&lt;/div&gt;
+<div align="center">
+  <img src="https://capsule-render.vercel.app/api?type=waving&color=0:00D9FF,100:0080FF&height=200&section=header&text=Hey,%20I'm%20Ace!&fontSize=60&fontColor=fff&animation=fadeIn&fontAlignY=35&desc=Building%20Solutions,%20One%20Line%20at%20a%20Time&descAlignY=55&descSize=20" width="100%"/>
+</div>
 
-&lt;h1 align="center"&gt;Hi there, I'm Ace 👋&lt;/h1&gt;
+<p align="center">
+  <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&weight=500&size=24&pause=1000&color=00D9FF&center=true&vCenter=true&random=false&width=600&lines=Computer+Programming+%26+Analysis+Student;Software+Developer+%7C+Problem+Solver;Building+the+Future%2C+One+Commit+at+a+Time" alt="Typing SVG" />
+</p>
 
-&lt;p align="center"&gt;
-  &lt;strong&gt;Computer Programming & Analysis Student | Software Developer | Problem Solver&lt;/strong&gt;
-&lt;/p&gt;
-
-&lt;p align="center"&gt;
-  &lt;img src="https://komarev.com/ghpvc/?username=aceeejlrz&label=Profile%20Views&color=0e75b6&style=flat" alt="Profile Views"/&gt;
-  &lt;img src="https://img.shields.io/badge/Status-Currently%20Studying-brightgreen?style=flat" alt="Status"/&gt;
-&lt;/p&gt;
-
----
-
-### 🎓 About Me
-
-I'm a full-time college student at **George Brown College, Casa Loma Campus**, pursuing a Computer Programming & Analysis diploma. I'm passionate about building efficient solutions and continuously expanding my technical expertise in software development, data management, and systems programming.
-
-**Core Focus Areas:**
-- Backend Development (C#, Node.js)
-- Database Design & Management
-- Linux Systems & Bash Scripting
-- Web Technologies (JavaScript, HTML/CSS)
+<p align="center">
+  <img src="https://komarev.com/ghpvc/?username=aceeejlrz&label=Profile%20Views&color=00D9FF&style=for-the-badge" alt="Profile Views"/>
+  <img src="https://img.shields.io/badge/Status-Currently%20Studying-00D9FF?style=for-the-badge&logo=academic&logoColor=white" alt="Status"/>
+  <img src="https://img.shields.io/github/followers/aceeejlrz?label=Followers&style=for-the-badge&color=00D9FF&logo=github" alt="Followers"/>
+</p>
 
 ---
 
-### 🛠️ Technical Skills
+## 🚀 About Me
 
-&lt;div align="center"&gt;
+```typescript
+const Ace = {
+    location: "Toronto, Canada 🇨🇦",
+    education: "George Brown College - Casa Loma Campus",
+    program: "Computer Programming & Analysis",
+    status: "Full-Time Student & Aspiring Developer",
+    interests: ["Backend Development", "Database Design", "System Programming"],
+    currentlyLearning: ["ASP.NET Core", "Advanced Algorithms", "DevOps"],
+    funFact: "I debug code faster than I debug my life 😄"
+};
+```
 
-#### Languages
-&lt;img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/csharp/csharp-original.svg" width="40" height="40" alt="C#" title="C#"/&gt;
-&lt;img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/java/java-original.svg" width="40" height="40" alt="Java" title="Java"/&gt;
-&lt;img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/javascript/javascript-original.svg" width="40" height="40" alt="JavaScript" title="JavaScript"/&gt;
-&lt;img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/html5/html5-original.svg" width="40" height="40" alt="HTML5" title="HTML5"/&gt;
-&lt;img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/css3/css3-original.svg" width="40" height="40" alt="CSS3" title="CSS3"/&gt;
-&lt;img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/bash/bash-original.svg" width="40" height="40" alt="Bash" title="Bash"/&gt;
-
-#### Tools & Technologies
-&lt;img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/mysql/mysql-original.svg" width="40" height="40" alt="MySQL" title="MySQL"/&gt;
-&lt;img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/linux/linux-original.svg" width="40" height="40" alt="Linux" title="Linux"/&gt;
-&lt;img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/vscode/vscode-original.svg" width="40" height="40" alt="VS Code" title="VS Code"/&gt;
-&lt;img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/git/git-original.svg" width="40" height="40" alt="Git" title="Git"/&gt;
-
-&lt;/div&gt;
+**What drives me:**
+- 💻 Passionate about creating efficient, scalable solutions
+- 📚 Constantly learning and expanding my technical skill set
+- 🎯 Focused on backend development and data-driven applications
+- 🌱 Growing expertise in modern software development practices
 
 ---
 
-### 📊 GitHub Stats
+## 🛠️ Tech Stack
 
-&lt;div align="center"&gt;
+<div align="center">
+
+### Languages
+<p>
+  <img src="https://img.shields.io/badge/C%23-239120?style=for-the-badge&logo=c-sharp&logoColor=white" alt="C#"/>
+  <img src="https://img.shields.io/badge/Java-ED8B00?style=for-the-badge&logo=openjdk&logoColor=white" alt="Java"/>
+  <img src="https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black" alt="JavaScript"/>
+  <img src="https://img.shields.io/badge/PHP-777BB4?style=for-the-badge&logo=php&logoColor=white" alt="PHP"/>
+  <img src="https://img.shields.io/badge/Bash-4EAA25?style=for-the-badge&logo=gnu-bash&logoColor=white" alt="Bash"/>
+  <img src="https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white" alt="HTML5"/>
+  <img src="https://img.shields.io/badge/CSS3-1572B6?style=for-the-badge&logo=css3&logoColor=white" alt="CSS3"/>
+</p>
+
+### Frameworks & Technologies
+<p>
+  <img src="https://img.shields.io/badge/.NET-512BD4?style=for-the-badge&logo=dotnet&logoColor=white" alt=".NET"/>
+  <img src="https://img.shields.io/badge/Node.js-339933?style=for-the-badge&logo=nodedotjs&logoColor=white" alt="Node.js"/>
+  <img src="https://img.shields.io/badge/React-61DAFB?style=for-the-badge&logo=react&logoColor=black" alt="React"/>
+  <img src="https://img.shields.io/badge/MySQL-4479A1?style=for-the-badge&logo=mysql&logoColor=white" alt="MySQL"/>
+  <img src="https://img.shields.io/badge/PostgreSQL-4169E1?style=for-the-badge&logo=postgresql&logoColor=white" alt="PostgreSQL"/>
+</p>
+
+### Tools & Environment
+<p>
+  <img src="https://img.shields.io/badge/Linux-FCC624?style=for-the-badge&logo=linux&logoColor=black" alt="Linux"/>
+  <img src="https://img.shields.io/badge/VS_Code-007ACC?style=for-the-badge&logo=visual-studio-code&logoColor=white" alt="VS Code"/>
+  <img src="https://img.shields.io/badge/JetBrains-000000?style=for-the-badge&logo=jetbrains&logoColor=white" alt="JetBrains IDEs"/>
+  <img src="https://img.shields.io/badge/Docker-2496ED?style=for-the-badge&logo=docker&logoColor=white" alt="Docker"/>
+  <img src="https://img.shields.io/badge/Azure-0078D4?style=for-the-badge&logo=microsoft-azure&logoColor=white" alt="Azure"/>
+  <img src="https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white" alt="Git"/>
+  <img src="https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white" alt="GitHub"/>
+</p>
+
+</div>
+
+---
+
+## 📊 GitHub Analytics
+
+<div align="center">
+  <img height="180em" src="https://github-readme-stats.vercel.app/api?username=aceeejlrz&show_icons=true&theme=tokyonight&include_all_commits=true&count_private=true&hide_border=true&bg_color=0D1117&title_color=00D9FF&icon_color=00D9FF&text_color=C9D1D9"/>
+  <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=aceeejlrz&layout=compact&theme=tokyonight&hide_border=true&bg_color=0D1117&title_color=00D9FF&text_color=C9D1D9"/>
+</div>
+
+<div align="center">
+  <img src="https://github-readme-streak-stats.herokuapp.com/?user=aceeejlrz&theme=tokyonight&hide_border=true&background=0D1117&ring=00D9FF&fire=00D9FF&currStreakLabel=00D9FF" alt="GitHub Streak"/>
+</div>
+
+<div align="center">
+  <img src="https://github-readme-activity-graph.vercel.app/graph?username=aceeejlrz&theme=tokyo-night&hide_border=true&bg_color=0D1117&color=00D9FF&line=00D9FF&point=FFFFFF" alt="Contribution Graph"/>
+</div>
+
+---
+
+## 🎯 Current Focus
+
+```javascript
+const currentGoals = {
+    academic: [
+        "Mastering Advanced Data Structures & Algorithms",
+        "Database Optimization & Query Performance",
+        "Building Production-Ready Applications"
+    ],
+    technical: [
+        "ASP.NET Core Web API Development",
+        "DevOps Fundamentals (Docker, CI/CD)",
+        "Cloud Technologies & Deployment"
+    ],
+    personal: [
+        "Contributing to Open Source Projects",
+        "Building a Strong Project Portfolio",
+        "Networking with Fellow Developers"
+    ]
+};
+```
+
+
+---
+
+## 📫 Let's Connect
+
+<div align="center">
   
-[![GitHub Stats](https://github-readme-stats.vercel.app/api?username=aceeejlrz&show_icons=true&theme=react&hide_border=false&rank_icon=github&include_all_commits=true&count_private=true)](https://github.com/aceeejlrz)
+[![GitHub](https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white)](https://github.com/aceeejlrz)
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](#)
+[![Email](https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:your.email@example.com)
+
+**Feel free to reach out if you want to collaborate on projects or just chat about tech!**
+
+</div>
+
+---
+
+<picture>
+  <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/aceeejlrz/aceeejlrz/output/github-snake-dark.svg" />
+  <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/aceeejlrz/aceeejlrz/output/github-snake.svg" />
+  <img alt="github-snake" src="https://raw.githubusercontent.com/aceeejlrz/aceeejlrz/output/github-snake.svg" />
+</picture>
+
+---
+
+<div align="center">
+  <img src="https://capsule-render.vercel.app/api?type=waving&color=0:00D9FF,100:0080FF&height=120&section=footer" width="100%"/>
   
-[![GitHub Streak](https://github-readme-streak-stats.herokuapp.com/?user=aceeejlrz&theme=react&hide_border=false)](https://github.com/aceeejlrz)
-
-&lt;!-- GitHub Activity Graph --&gt;
-[![GitHub Activity Graph](https://github-readme-stats.vercel.app/api?username=aceeejlrz&show_icons=true&theme=react&hide_border=false&custom_title=Contribution%20Graph)](https://github.com/ashutosh00710/github-readme-activity-graph)
+  **💙 Thanks for stopping by! Let's build something amazing together 🚀**
   
-&lt;/div&gt;
-
----
-
-### 🎯 Currently Learning & Improving
-
-- **Advanced Data Structures & Algorithms**
-- **ASP.NET Core Web API Development**
-- **Database Optimization & Query Performance**
-- **DevOps Fundamentals (Docker, CI/CD)**
-
----
-
-### 📫 Let's Connect
-
-&lt;p align="center"&gt;
-  &lt;a href="https://github.com/aceeejlrz"&gt;
-    &lt;img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/github/github-original.svg" width="30" height="30" alt="GitHub"/&gt;
-  &lt;/a&gt;
-&lt;/p&gt;
-
-&lt;div align="center"&gt;
-  &lt;img src="https://user-images.githubusercontent.com/74038190/212284115-f47cd8ff-2ffb-4b04-b5bf-4d1c14c0247f.gif" width="100%" height="60px"/&gt;
-&lt;/div&gt;
-
-![GitHub Snake Animation](https://raw.githubusercontent.com/hasanRafi2002/hasanRafi2002/output/github-snake-dark.svg)
-
----
-
-&lt;div align="center"&gt;
-  &lt;sub&gt;Thank you for visiting my profile! 🚀&lt;/sub&gt;
-&lt;/div&gt;
+  <sub>⭐ Star my repositories if you find them interesting!</sub>
+</div>
