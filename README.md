@@ -25,7 +25,7 @@ I work with a **design-first approach**. I write the architecture before the cod
 
 ## Featured Project
 
-### webHookDebugger · [Live demo](https://webhookdebugger.fly.dev)
+### webHookDebugger ·
 A full-stack tool for capturing, inspecting, and replaying incoming webhooks.
 
 **Stack:** Java 21 · Spring Boot 3.5 · PostgreSQL (Neon) · Flyway · Spring Security · Docker · Fly.io
